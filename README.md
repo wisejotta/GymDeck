@@ -20,8 +20,4 @@ Gym Deck is a gamified workout planner built with Kotlin + Jetpack Compose.
 ## Project Structure
 See source folders under `app/src/main/java/com/gymdeck`
 
-## License
-MIT
-=======
-# GymDeck
->>>>>>> 6425f1a50026f621cb4fb0eb952b339784630fc1
+>>>>>>> 
